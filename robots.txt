@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shuphoonoh.zndo.live/sitemap.xml
